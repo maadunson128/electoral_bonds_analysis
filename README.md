@@ -28,3 +28,7 @@ I converted the PDF's to csv using online websites but the output format wasn't 
 I tried to something with the csv file where its format was not satisfied. It made me took many hours ended to give up.
 Then searched for any PDF related libraries in python to modify the PDF's to csv. I came up with library 'tabulu-py' which can be useful with tabular PDF.
 I will try the library and update the flow.
+
+### 5. PDF's into csv
+After some basic knowledge of some useful functions such as read_pdf() in tabula and concat(), to_csv() in pandas, the two PDF's is converted into csv files.
+The csv files were checked with the PDF manually by cross checking the number of rows in each PDF along with the converted csv's.
