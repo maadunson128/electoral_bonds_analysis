@@ -32,3 +32,8 @@ I will try the library and update the flow.
 ### 5. PDF's into csv
 After some basic knowledge of some useful functions such as read_pdf() in tabula and concat(), to_csv() in pandas, the two PDF's is converted into csv files.
 The csv files were checked with the PDF manually by cross checking the number of rows in each PDF along with the converted csv's.
+
+### 6. Using Google Collab
+I can't use jupter notebook for my further analysis since my laptop doesn't have high specifications to process the data. So, I opt for google collab.
+I uploaded the csv files into google drive and mounted the google drive in my collab notebook.
+From now on, the EDA and other analysis will be carried on the google collab.
