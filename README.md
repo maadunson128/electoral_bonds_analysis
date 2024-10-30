@@ -38,3 +38,7 @@ The csv files were checked with the PDF manually by cross checking the number of
 I can't use jupter notebook for my further analysis since my laptop doesn't have high specifications to process the data. So, I opt for google collab.
 I uploaded the csv files into google drive and mounted the google drive in my collab notebook.
 From now on, the EDA and other analysis will be carried on the google collab.
+
+### 7. Modifications in dataframe
+Merged the two dataframes on column 'UniqueID' which was created by merging the columns 'Prefix' and 'BondNumber' on two dataframes.
+Found an interesting thing related to number of bonds purchased and encashed.(Included in the notebook).
